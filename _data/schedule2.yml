@@ -1,0 +1,110 @@
+-
+  startDate: "2017-04-10T07:15:00Z"
+  endDate: "2017-04-10T08:05:00Z"
+  sessionId: 15
+  roomId: 1
+-
+  startDate: "2017-04-10T08:05:00Z"
+  endDate: "2017-04-10T08:55:00Z"
+  sessionId: 31
+  roomId: 1
+-
+  startDate: "2017-04-10T09:10:00Z"
+  endDate: "2017-04-10T10:00:00Z"
+  sessionId: 2
+  roomId: 1
+-
+  startDate: "2017-04-10T10:00:00Z"
+  endDate: "2017-04-10T10:50:00Z"
+  sessionId: 28
+  roomId: 1
+-
+  startDate: "2017-04-10T11:40:00Z"
+  endDate: "2017-04-10T12:30:00Z"
+  sessionId: 18
+  roomId: 1
+-
+  startDate: "2017-04-10T12:30:00Z"
+  endDate: "2017-04-10T13:20:00Z"
+  sessionId: 4
+  roomId: 1
+-
+  startDate: "2017-04-10T13:35:00Z"
+  endDate: "2017-04-10T14:25:00Z"
+  sessionId: 10
+  roomId: 1
+-
+  startDate: "2017-04-10T14:25:00Z"
+  endDate: "2017-04-10T15:15:00Z"
+  sessionId: 1
+  roomId: 1
+-
+  startDate: "2017-04-10T15:15:00Z"
+  endDate: "2017-04-10T16:05:00Z"
+  sessionId: 17
+  roomId: 1
+-
+  startDate: "2017-04-11T07:00:00Z"
+  endDate: "2017-04-11T07:50:00Z"
+  sessionId: -1
+  roomId: 1
+-
+  startDate: "2017-04-11T07:50:00Z"
+  endDate: "2017-04-11T08:40:00Z"
+  sessionId: 20
+  roomId: 1
+-
+  startDate: "2017-04-11T08:55:00Z"
+  endDate: "2017-04-11T09:45:00Z"
+  sessionId: -1
+  roomId: 1
+-
+  startDate: "2017-04-11T09:45:00Z"
+  endDate: "2017-04-11T10:35:00Z"
+  sessionId: 19
+  roomId: 1
+-
+  startDate: "2017-04-11T11:25:00Z"
+  endDate: "2017-04-11T12:15:00Z"
+  sessionId: 21
+  roomId: 1
+-
+  startDate: "2017-04-11T12:15:00Z"
+  endDate: "2017-04-11T13:05:00Z"
+  sessionId: -1
+  roomId: 1
+-
+  startDate: "2017-04-11T13:20:00Z"
+  endDate: "2017-04-11T14:10:00Z"
+  sessionId: 24
+  roomId: 1
+-
+  startDate: "2017-04-11T14:10:00Z"
+  endDate: "2017-04-11T15:00:00Z"
+  sessionId: 22
+  roomId: 1
+-
+  startDate: "2017-04-11T15:00:00Z"
+  endDate: "2017-04-11T15:50:00Z"
+  sessionId: 26
+  roomId: 1
+-
+  startDate: "2017-04-11T15:50:00Z"
+  endDate: "2017-04-11T16:40:00Z"
+  sessionId: 3
+  roomId: 1
+-
+  startDate: "2017-04-10T08:05:00Z"
+  endDate: "2017-04-10T08:30:00Z"
+  sessionId: 26
+  roomId: 2
+-
+  startDate: "2017-04-10T08:30:00Z"
+  endDate: "2017-04-10T08:55:00Z"
+  sessionId: 16
+  roomId: 2
+-
+  startDate: "2017-04-11T07:00:00Z"
+  endDate: "2017-04-11T07:50:00Z"
+  sessionId: 30
+  roomId: 2
